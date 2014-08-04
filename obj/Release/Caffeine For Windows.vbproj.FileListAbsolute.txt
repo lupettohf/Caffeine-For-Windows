@@ -1,0 +1,10 @@
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\bin\Release\Caffeine For Windows.exe.config
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\bin\Release\Caffeine For Windows.exe
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\bin\Release\Caffeine For Windows.pdb
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\bin\Release\Caffeine For Windows.xml
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine_For_Windows.Settings.resources
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine_For_Windows.Resources.resources
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine For Windows.vbproj.GenerateResource.Cache
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine For Windows.exe
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine For Windows.xml
+C:\Users\lupetto\Documents\Visual Studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Release\Caffeine For Windows.pdb
