@@ -8,3 +8,13 @@ c:\users\lupetto\documents\visual studio 2013\Projects\Caffeine For Windows\Caff
 c:\users\lupetto\documents\visual studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Debug\Caffeine For Windows.exe
 c:\users\lupetto\documents\visual studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Debug\Caffeine For Windows.xml
 c:\users\lupetto\documents\visual studio 2013\Projects\Caffeine For Windows\Caffeine For Windows\obj\Debug\Caffeine For Windows.pdb
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\bin\Debug\Caffeine For Windows.exe.config
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine For Windows.xml
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine For Windows.pdb
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine_For_Windows.Settings.resources
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine_For_Windows.Resources.resources
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine For Windows.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\bin\Debug\Caffeine For Windows.exe
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\bin\Debug\Caffeine For Windows.pdb
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\bin\Debug\Caffeine For Windows.xml
+C:\Users\Andrea\Documents\GitHub\Caffeine-For-Windows\obj\Debug\Caffeine For Windows.exe

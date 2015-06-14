@@ -35,7 +35,7 @@ Partial Class Settings
         Me.NotifyIcon_Tray = New System.Windows.Forms.NotifyIcon(Me.components)
         Me.IconLabel = New System.Windows.Forms.Label()
         Me.githuburl = New System.Windows.Forms.LinkLabel()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.lblversion = New System.Windows.Forms.Label()
         Me.TimeBox.SuspendLayout()
         CType(Me.NumericTime, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -75,11 +75,11 @@ Partial Class Settings
         '
         'StopStart
         '
-        Me.StopStart.Location = New System.Drawing.Point(77, 47)
+        Me.StopStart.Location = New System.Drawing.Point(74, 47)
         Me.StopStart.Name = "StopStart"
-        Me.StopStart.Size = New System.Drawing.Size(76, 23)
+        Me.StopStart.Size = New System.Drawing.Size(79, 23)
         Me.StopStart.TabIndex = 4
-        Me.StopStart.Text = "Stop Timer"
+        Me.StopStart.Text = "Stop Caffeine"
         Me.StopStart.UseVisualStyleBackColor = True
         '
         'NumericTime
@@ -124,7 +124,7 @@ Partial Class Settings
         'IconLabel
         '
         Me.IconLabel.AutoSize = True
-        Me.IconLabel.Location = New System.Drawing.Point(12, 96)
+        Me.IconLabel.Location = New System.Drawing.Point(9, 95)
         Me.IconLabel.Name = "IconLabel"
         Me.IconLabel.Size = New System.Drawing.Size(45, 13)
         Me.IconLabel.TabIndex = 3
@@ -133,21 +133,21 @@ Partial Class Settings
         'githuburl
         '
         Me.githuburl.AutoSize = True
-        Me.githuburl.Location = New System.Drawing.Point(64, 96)
+        Me.githuburl.Location = New System.Drawing.Point(49, 95)
         Me.githuburl.Name = "githuburl"
         Me.githuburl.Size = New System.Drawing.Size(41, 13)
         Me.githuburl.TabIndex = 4
         Me.githuburl.TabStop = True
         Me.githuburl.Text = "alecive"
         '
-        'Label1
+        'lblversion
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(200, 96)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(72, 13)
-        Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Verison: 1.0.0"
+        Me.lblversion.AutoSize = True
+        Me.lblversion.Location = New System.Drawing.Point(200, 96)
+        Me.lblversion.Name = "lblversion"
+        Me.lblversion.Size = New System.Drawing.Size(72, 13)
+        Me.lblversion.TabIndex = 5
+        Me.lblversion.Text = "Verison: 1.0.1"
         '
         'Settings
         '
@@ -155,7 +155,7 @@ Partial Class Settings
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 116)
         Me.ControlBox = False
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.lblversion)
         Me.Controls.Add(Me.githuburl)
         Me.Controls.Add(Me.IconLabel)
         Me.Controls.Add(Me.TimeBox)
@@ -185,6 +185,6 @@ Partial Class Settings
     Friend WithEvents timedesc As System.Windows.Forms.Label
     Friend WithEvents NumericTime As System.Windows.Forms.NumericUpDown
     Friend WithEvents StopStart As System.Windows.Forms.Button
-    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents lblversion As System.Windows.Forms.Label
 
 End Class
